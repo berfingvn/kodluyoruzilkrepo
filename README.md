@@ -4,4 +4,5 @@ Bu repo [kodluyoruz](https://kodluyoruz.org) Front-End eğitiminde oluşturduğu
 https://github.com/berfingvn/kodluyoruzilkrepo.git
 ## usage
 cd kodluyoruzilkrepo code.
-![kodluyoruz görsel](https://tr.pinterest.com/pin/383791199494003896/)
+![proje](![image](https://user-images.githubusercontent.com/110466485/185746239-4e2ce8a0-e22d-4a3a-b79b-f1e14ca2d245.png)
+
